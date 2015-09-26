@@ -5,7 +5,7 @@ var aufs = ["", "U", "U2", "U'"];
 // Note these are the *inverses*
 var pllInverses = {
   "": "",
-  "Aa": "R' F R' B2 R F' R' B2 R2",
+  "Aa": "R B' R F2 R' B R F2 R2",
   "Ab": "R' F R' B2 R F' R' B2 R2",
   "E": "R' U L' D2 L U' R L' U R' D2 R U' L",
   "F": "R' U R U' R2 F' U' F U R F R' F' R2 U'",
