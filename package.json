@@ -1,0 +1,17 @@
+{
+  "name": "which-pll",
+  "version": "0.0.1",
+  "description": "Determine which pll an algorithm is",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "rubik"
+  ],
+  "author": "Justin Jaffray",
+  "license": "MIT",
+  "dependencies": {
+    "cubid": "0.0.4"
+  }
+}
