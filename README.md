@@ -1,6 +1,12 @@
 # which-pll
 Tell which PLL a given alg corresponds to.
 
+## Install
+
+```
+$ npm install --save which-pll
+```
+
 ## API
 
 ### `whichPll(<alg>)`
