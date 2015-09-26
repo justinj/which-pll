@@ -1,14 +1,6 @@
 var Cubid = require("cubid");
 
 var aufs = ["", "U", "U2", "U'"];
-var justNeedsAUF = function(cube) {
-  for (var i = 0; i < aufs.length; i++) {
-    if (cube.apply(aufs[i]).isSolved()) {
-      return true;
-    }
-  }
-  return false;
-};
 
 // Note these are the *inverses*
 var pllInverses = {
