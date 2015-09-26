@@ -1,6 +1,6 @@
 {
   "name": "which-pll",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Determine which pll an algorithm is",
   "main": "index.js",
   "scripts": {
